@@ -1,0 +1,19 @@
+{
+  "name": "microwiki",
+  "version": "0.1.0",
+  "description": "Micro-service wiki",
+  "main": "wiki.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squaremo/microwiki.git"
+  },
+  "author": "Michael Bridgen <mikeb@squaremobius.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/squaremo/microwiki/issues"
+  },
+  "homepage": "https://github.com/squaremo/microwiki#readme"
+}
